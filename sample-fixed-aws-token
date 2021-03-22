@@ -2,16 +2,13 @@
   <GetSessionTokenResult>
     <Credentials>
       <SessionToken>
-       ***REMOVED***
-       ***REMOVED***
-       ***REMOVED***
-       ***REMOVED***
+       ****removed****
       </SessionToken>
       <SecretAccessKey>
-      ***REMOVED***
+      ****removed****
       </SecretAccessKey>
       <Expiration>2011-07-11T19:55:29.611Z</Expiration>
-      <AccessKeyId>ASIAIOSFODNN7EXAMPLE</AccessKeyId>
+      <AccessKeyId>****removed****</AccessKeyId>
     </Credentials>
   </GetSessionTokenResult>
   <ResponseMetadata>
