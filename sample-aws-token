@@ -1,0 +1,20 @@
+<GetSessionTokenResponse xmlns="https://sts.amazonaws.com/doc/2011-06-15/">
+  <GetSessionTokenResult>
+    <Credentials>
+      <SessionToken>
+       ***REMOVED***
+       ***REMOVED***
+       ***REMOVED***
+       ***REMOVED***
+      </SessionToken>
+      <SecretAccessKey>
+      ***REMOVED***
+      </SecretAccessKey>
+      <Expiration>2011-07-11T19:55:29.611Z</Expiration>
+      <AccessKeyId>ASIAIOSFODNN7EXAMPLE</AccessKeyId>
+    </Credentials>
+  </GetSessionTokenResult>
+  <ResponseMetadata>
+    <RequestId>58c5dbae-abef-11e0-8cfe-09039844ac7d</RequestId>
+  </ResponseMetadata>
+</GetSessionTokenResponse>
